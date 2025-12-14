@@ -1,0 +1,1 @@
+{"feature_names": ["season", "yr", "holiday", "weekday", "workingday", "weathersit", "atemp", "hum", "windspeed", "month_sin", "month_cos", "hour_sin", "hour_cos"], "input_dim": 14, "target_transform": null}
